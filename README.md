@@ -1,4 +1,4 @@
 # GameMiniProyecto
 Espacio de trabajo para la creación de un juego en página web.  
-Apoco sí?.
-Si we, eso me dijo que pusiera el chato
+Link video de presentacion:
+https://drive.google.com/file/d/1VADiyxebfFarPnHCBbpXjWgy6N9slOBS/view?usp=drive_link
